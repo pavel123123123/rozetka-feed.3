@@ -1,0 +1,819 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<yml_catalog date="2026-11-24 14:45">
+  <shop>
+    <name>VELUM</name>
+    <company>4141255</company>
+    <url>https://vellum.prom.ua/</url>
+    <currencies>
+      <currency id="UAH" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="3">Одежда и обувь</category>
+      <category id="55">Авто - мото</category>
+      <category id="301" parentId="3">Спортивная одежда и обувь</category>
+      <category id="338" parentId="1203">Мотоэкипировка</category>
+      <category id="339" parentId="3810">Аксессуары</category>
+      <category id="355" parentId="3">Мужская одежда</category>
+      <category id="1203" parentId="55">Мототехника</category>
+      <category id="1524" parentId="3810">Сумки, чемоданы, портфели</category>
+      <category id="3406" parentId="1203">Запчасти для мототехники</category>
+      <category id="3407" parentId="1203">Аксессуары для мототехники</category>
+      <category id="3426" parentId="55">Дополнительное оборудование</category>
+      <category id="3810">Аксессуары и украшения</category>
+      <category id="30503" parentId="355">Мужские толстовки и регланы</category>
+      <category id="30602" parentId="355">Мужские шорты и бриджи</category>
+      <category id="33802" parentId="338">Мотоперчатки</category>
+      <category id="33807" parentId="338">Мотозащита</category>
+      <category id="33809" parentId="338">Мотоочки</category>
+      <category id="35506" parentId="355">Мужские футболки и майки</category>
+      <category id="120219" parentId="3426">Механические противоугонные системы</category>
+      <category id="121102" parentId="55">Автоинструмент</category>
+      <category id="150903" parentId="3810">Бижутерия</category>
+      <category id="151105" parentId="339">Наручные и карманные часы</category>
+      <category id="152411" parentId="1524">Мужские сумки</category>
+      <category id="340613" parentId="3406">Подножки для мототехники</category>
+      <category id="3220713" parentId="301">Кроссовки и кеды</category>
+      <category id="12110205" parentId="121102">Автомобильные насосы, компрессоры и манометры</category>
+      <category id="36090301" parentId="150903">Браслеты</category>
+    </categories>
+  <offers>
+<offer id="3086182320" available="true" group_id="814925380">
+    <article>43552352435</article>
+    <url>https://vellum.prom.ua/p3086182320-shorti-gallery-dept.html</url>
+    <price>799</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>30602</categoryId>
+    <picture>https://images.prom.ua/YXk9dsRJe5azid2qT9UwLahfkNLdX8Ahau0Qi1PZK24=/7472829967_shorti-gallery-dept.jpg</picture>
+    <picture>https://images.prom.ua/tFKmzdxpYPc38XBAs76TbWzq0AQVu9_GICyUehEj2fM=/7472829965_shorti-gallery-dept.jpg</picture>
+    <picture>https://images.prom.ua/8jzYZnQY-H6esEHaCcW8Udrb43McQCdJcKNQMTrMWlA=/7472829966_shorti-gallery-dept.jpg</picture>
+    <picture>https://images.prom.ua/kIfmefsOlRd7DdZSlidQPIq6nLCkiPWl6FvhFUGZJS0=/7472829964_shorti-gallery-dept.jpg</picture>
+    <vendor>Lanvin</vendor>
+    <stock_quantity>1</stock_quantity>
+    <name>Шорти Lanvin Gallery Dept Чорні L 3086182320</name>
+    <name_ua>Шорти Lanvin Gallery Dept Чорні L 3086182320</name_ua>
+    <description>Шорти Lanvin Gallery Dept Чорні L 3086182320. Характеристики: Тип товара: Шорты; Цвет: Черный; Международный размер: L.</description>
+    <description_ua>Шорти Lanvin Gallery Dept Чорні L 3086182320. Характеристики: Тип товара: Шорты; Цвет: Черный; Международный размер: L.</description_ua>
+    <param name="Тип товара">Шорты</param>
+    <param name="Цвет">Черный</param>
+    <param name="Состояние">Новое</param>
+    <param name="Международный размер">L</param>
+  </offer>
+  <offer id="3086601194" available="true" group_id="182005547">
+    <url>https://vellum.prom.ua/p3086601194-shorty-stone-island.html</url>
+    <price>999</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>30602</categoryId>
+    <picture>https://images.prom.ua/jO4PArQFyajwOp7L09LahvHC-uZSNeXjrhofYkaHdX0=/7473696704_shorty-stone-island.jpg</picture>
+    <picture>https://images.prom.ua/KSG3yNpus7SApzLS3tdAu52BEckzKTdvpnbdkjXq8vk=/7473696712_shorty-stone-island.jpg</picture>
+    <picture>https://images.prom.ua/-X1eeDdbk7VcUgPAhCSz_H4bEtfMRLYjC0abqU5ugR8=/7473729780_shorty-stone-island.jpg</picture>
+    <picture>https://images.prom.ua/BviIGdU15j0aFoz2Y3i25cndpgHKZcYia_xWVhBUSdk=/7473729772_shorty-stone-island.jpg</picture>
+    <picture>https://images.prom.ua/IpnFxjpPrtGJ4PjTA6JfXMXbHXr4-uJqpWRU65HOQK8=/7473729778_shorty-stone-island.jpg</picture>
+    <vendor>Stone Island</vendor>
+    <stock_quantity>1</stock_quantity>
+    <name>Шорти Stone Island Нейлонові Сірі L 3086601194</name>
+    <name_ua>Шорти Stone Island Нейлонові Сірі L 3086601194</name_ua>
+    <description>Шорти Stone Island Нейлонові Сірі L 3086601194. Характеристики: Тип товара: Шорты; Тип ткани: Нейлон; Цвет: Серый; Международный размер: L.</description>
+    <description_ua>Шорти Stone Island Нейлонові Сірі L 3086601194. Характеристики: Тип товара: Шорты; Тип ткани: Нейлон; Цвет: Серый; Международный размер: L.</description_ua>
+    <param name="Тип товара">Шорты</param>
+    <param name="Тип ткани">Нейлон</param>
+    <param name="Цвет">Серый</param>
+    <param name="Состояние">Новое</param>
+    <param name="Международный размер">L</param>
+  </offer>
+  <offer id="3095750070" available="true" group_id="895288937">
+    <url>https://vellum.prom.ua/p3095750070-braslet-lakosta-polnaya.html</url>
+    <price>1249</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>36090301</categoryId>
+    <picture>https://images.prom.ua/qNo6vykTEDP9bL5N-i9-DwbkqeqfF9QSLQyivZUepGM=/7856286602_braslet-lakosta-polnaya.jpg</picture>
+    <picture>https://images.prom.ua/6HYM4JJ0eLuil4v0Us7yAuTqnaXYkp-h3iOJF6bQTpE=/7856286614_braslet-lakosta-polnaya.jpg</picture>
+    <picture>https://images.prom.ua/NK6arv3dGei0RugUC4P2dzp94bQEyxYc6IrDlYZBa38=/7494341347_braslet-lakosta-polnaya.jpg</picture>
+    <picture>https://images.prom.ua/0ezSYLuM-5d83bEIELPZXovVjssb0lNLDxlTIYsMGsg=/7494342202_braslet-lakosta-polnaya.jpg</picture>
+    <vendor>Без бренду</vendor><stock_quantity>15</stock_quantity>
+    <name>Браслет сталевий Без бренду Сріблястий 3095750070</name>
+    <name_ua>Браслет сталевий Без бренду Сріблястий 3095750070</name_ua>
+    <description>Браслет сталевий Без бренду Сріблястий 3095750070. Характеристики: Тип: На руку; Пол: Унисекс; Материал: Нержавеющая сталь; Цвет: Серебристый.</description>
+    <description_ua>Браслет сталевий Без бренду Сріблястий 3095750070. Характеристики: Тип: На руку; Пол: Унисекс; Материал: Нержавеющая сталь; Цвет: Серебристый.</description_ua>
+    <param name="Тип">На руку</param>
+    <param name="Пол">Унисекс</param>
+    <param name="Материал">Нержавеющая сталь</param>
+    <param name="Цвет">Серебристый</param>
+  </offer>
+  <offer id="3098974985" available="true">
+    <url>https://vellum.prom.ua/p3098974985-velomoto-protivougonnyj-zamok.html</url>
+    <price>699</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>120219</categoryId>
+    <picture>https://images.prom.ua/jsZULUPvKuf_MHRV3eVfDFchQuDPp5ylgPlH_DVldKo=/7510763889_velomoto-protivougonnyj-zamok.jpg</picture>
+    <picture>https://images.prom.ua/X4_WvTW93aFRYHifLBshCEDhUpDbG4V8WwIgtViZjgc=/7502088026_velomoto-protivougonnyj-zamok.jpg</picture>
+    <picture>https://images.prom.ua/SOHbQrVnRuLV_ciXyZrLmt-eYs7fEcIYTN1RZTossE0=/7502088027_velomoto-protivougonnyj-zamok.jpg</picture>
+    <vendor>Без бренду</vendor>
+    <stock_quantity>1</stock_quantity>
+    <name>Замок протиугінний Без бренду з сигналізацією 110 dB 3098974985</name>
+    <name_ua>Замок протиугінний Без бренду з сигналізацією 110 dB 3098974985</name_ua>
+    <description>Замок протиугінний Без бренду з сигналізацією 110 dB 3098974985. Характеристики: Вид блокировки: Мотозамок; Количество ключей в комплекте: 2.</description>
+    <description_ua>Замок протиугінний Без бренду з сигналізацією 110 dB 3098974985. Характеристики: Вид блокировки: Мотозамок; Количество ключей в комплекте: 2.</description_ua>
+    <param name="Вид блокировки">Мотозамок</param>
+    <param name="Количество ключей в комплекте" unit="шт">2</param>
+    <param name="Состояние">Новое</param>
+  </offer>
+  <offer id="3098976074" available="false" group_id="640949935">
+    <url>https://vellum.prom.ua/p3098976074-moto-varezhki-100.html</url>
+    <price>499</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>33802</categoryId>
+    <picture>https://images.prom.ua/Flr89LH28uB_deC_bRZ3NHtD7GxBBoEPmylQkuUIpr8=/7502090582_moto-varezhki-100.jpg</picture>
+    <vendor>Ride 100%</vendor>
+    <stock_quantity>0</stock_quantity><name>Мотоперчатки Ride 100% XL 3098976074</name>
+    <name_ua>Мотоперчатки Ride 100% XL 3098976074</name_ua>
+    <description>Мотоперчатки Ride 100% XL 3098976074. Характеристики: Размер: XL; Тип товару: Мотоперчатки; Матеріал: Нейлон.</description>
+    <description_ua>Мотоперчатки Ride 100% XL 3098976074. Характеристики: Размер: XL; Тип товару: Мотоперчатки; Матеріал: Нейлон.</description_ua>
+    <param name="Размер">XL</param>
+    <param name="Состояние">Новое</param>
+  <param name="Тип товару">Мотоперчатки</param><param name="Матеріал">Нейлон</param></offer>
+  <offer id="3098984514" available="true" group_id="516317388">
+    <url>https://vellum.prom.ua/p3098984514-motomaska-100-raznye.html</url>
+    <price>349</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>33809</categoryId>
+    <picture>https://images.prom.ua/hZKHDNC-f6uCQyASYlMAWlfcmvLqdydQQnbJcu2D4Wk=/7502109153_motomaska-100-raznye.jpg</picture>
+    <picture>https://images.prom.ua/jzZopgxHl_7VVZ-b96BrahGu_xKD1TXNbQa62yk4Vb8=/7502109152_motomaska-100-raznye.jpg</picture>
+    <picture>https://images.prom.ua/dmVi54zD5g6Xl3vt_ByCBhvWbnC4ZBsglEPI2X1HLKQ=/7502109154_motomaska-100-raznye.jpg</picture>
+    <picture>https://images.prom.ua/8NoAs5ss-4fDa1WjfLwOxwYUkujTSAOgDY8r8ljgj_U=/7502109155_motomaska-100-raznye.jpg</picture>
+    <picture>https://images.prom.ua/rCM2U7Ij-imPymzRWmNDy0780OVZi_wAYpUlXCOIcus=/7502109227_motomaska-100-raznye.jpg</picture>
+    <picture>https://images.prom.ua/ly4rVYGZJuM9xIFmQjDkdzpNisGPaLTBOqsXspHo1z4=/7502109228_motomaska-100-raznye.jpg</picture>
+    <vendor>Ride 100%</vendor>
+    <stock_quantity>3</stock_quantity>
+    <name>Мотоокуляри Ride 100% Червоні 3098984514</name>
+    <name_ua>Мотоокуляри Ride 100% Червоні 3098984514</name_ua>
+    <description>Мотоокуляри Ride 100% Червоні 3098984514. Характеристики: Количество линз: 1; Цвет линз: Желтый; Цвет корпуса: Красный; Тип: Линза.</description>
+    <description_ua>Мотоокуляри Ride 100% Червоні 3098984514. Характеристики: Количество линз: 1; Цвет линз: Желтый; Цвет корпуса: Красный; Тип: Линза.</description_ua>
+    <param name="Количество линз">1</param>
+    <param name="Цвет линз">Желтый</param>
+    <param name="Цвет корпуса">Красный</param>
+    <param name="Состояние">Новое</param>
+    <param name="Тип">Линза</param>
+  </offer>
+  <offer id="3098985115" available="true" group_id="516317388">
+    <url>https://vellum.prom.ua/p3098985115-motomaska-100-raznye.html</url>
+    <price>349</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>33809</categoryId>
+    <picture>https://images.prom.ua/dmVi54zD5g6Xl3vt_ByCBhvWbnC4ZBsglEPI2X1HLKQ=/7502109154_motomaska-100-raznye.jpg</picture>
+    <vendor>Ride 100%</vendor>
+    <stock_quantity>5</stock_quantity>
+    <name>Мотоокуляри Ride 100% Сині 3098985115</name>
+    <name_ua>Мотоокуляри Ride 100% Сині 3098985115</name_ua>
+    <description>Мотоокуляри Ride 100% Сині 3098985115. Характеристики: Количество линз: 1; Цвет линз: Желтый; Тип: Линза; Цвет корпуса: Синие.</description>
+    <description_ua>Мотоокуляри Ride 100% Сині 3098985115. Характеристики: Количество линз: 1; Цвет линз: Желтый; Тип: Линза; Цвет корпуса: Синие.</description_ua>
+    <param name="Количество линз">1</param>
+    <param name="Цвет линз">Желтый</param>
+    <param name="Состояние">Новое</param>
+    <param name="Тип">Линза</param>
+    <param name="Цвет корпуса" unit="">Синие</param>
+  </offer>
+  <offer id="3098985117" available="true" group_id="516317388">
+    <url>https://vellum.prom.ua/p3098985117-motomaska-100-raznye.html</url>
+    <price>349</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>33809</categoryId>
+    <picture>https://images.prom.ua/jzZopgxHl_7VVZ-b96BrahGu_xKD1TXNbQa62yk4Vb8=/7502109152_motomaska-100-raznye.jpg</picture>
+    <vendor>Ride 100%</vendor>
+    <stock_quantity>2</stock_quantity>
+    <name>Мотоокуляри Ride 100% Червоні прозорі 3098985117</name>
+    <name_ua>Мотоокуляри Ride 100% Червоні прозорі 3098985117</name_ua>
+    <description>Мотоокуляри Ride 100% Червоні прозорі 3098985117. Характеристики: Количество линз: 1; Цвет линз: Желтый; Тип: Линза; Цвет корпуса: Красный проз.</description>
+    <description_ua>Мотоокуляри Ride 100% Червоні прозорі 3098985117. Характеристики: Количество линз: 1; Цвет линз: Желтый; Тип: Линза; Цвет корпуса: Красный проз.</description_ua>
+    <param name="Количество линз">1</param>
+    <param name="Цвет линз">Желтый</param>
+    <param name="Состояние">Новое</param>
+    <param name="Тип">Линза</param>
+    <param name="Цвет корпуса" unit="">Красный проз</param>
+  </offer>
+  <offer id="3100945323" available="true" group_id="895288937">
+    <url>https://vellum.prom.ua/p3100945323-braslet-lakosta-polnaya.html</url>
+    <price>1249</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>36090301</categoryId>
+    <picture>https://images.prom.ua/X8zwLaRHsjun3lR_IiHJB7uMHv8kwhXjQkkzm5L3Z2A=/7505844862_braslet-lakosta-polnaya.jpg</picture>
+    <picture>https://images.prom.ua/sBFXKafffHmI12zVjTy4d0d6jgM2bItTGH3YS4F8zMI=/7505844861_braslet-lakosta-polnaya.jpg</picture>
+    <picture>https://images.prom.ua/UXTeLfzVvBSHB8DeW0ov23Uw7RDs5AWSYRJoJaRM7cI=/7505845566_braslet-lakosta-polnaya.jpg</picture>
+    <picture>https://images.prom.ua/c-vye7-V2O_NeWPZcXBEdQCzl-0zjLANW9ZGzZfoKZo=/7505844860_braslet-lakosta-polnaya.jpg</picture>
+    <picture>https://images.prom.ua/9lLVjRBCxIVeUOsWESBJvpwe5Uj1Ik6B28s3nyh6IUk=/7505844863_braslet-lakosta-polnaya.jpg</picture>
+    <vendor>Без бренду</vendor><stock_quantity>8</stock_quantity>
+    <name>Браслет сталевий Без бренду Чорний 3100945323</name>
+    <name_ua>Браслет сталевий Без бренду Чорний 3100945323</name_ua>
+    <description>Браслет сталевий Без бренду Чорний 3100945323. Характеристики: Тип: На руку; Пол: Унисекс; Материал: Нержавеющая сталь; Цвет: Черный.</description>
+    <description_ua>Браслет сталевий Без бренду Чорний 3100945323. Характеристики: Тип: На руку; Пол: Унисекс; Материал: Нержавеющая сталь; Цвет: Черный.</description_ua>
+    <param name="Тип">На руку</param>
+    <param name="Пол">Унисекс</param>
+    <param name="Материал">Нержавеющая сталь</param>
+    <param name="Цвет">Черный</param>
+  </offer>
+  <offer id="3100957866" available="true" group_id="640949935">
+    <url>https://vellum.prom.ua/p3100957866-moto-varezhki-100.html</url>
+    <price>499</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>33802</categoryId>
+    <picture>https://images.prom.ua/fFbmJyZt8yw-jSd7fiAqQnwBTpLEHU-mtfub9y6QadY=/7505873499_moto-varezhki-100.jpg</picture>
+    <vendor>Ride 100%</vendor>
+    <stock_quantity>1</stock_quantity>
+    <name>Мотоперчатки Ride 100% XL 3100957866</name>
+    <name_ua>Мотоперчатки Ride 100% XL 3100957866</name_ua>
+    <description>Мотоперчатки Ride 100% XL 3100957866. Характеристики: Размер: XL; Тип товару: Мотоперчатки; Матеріал: Нейлон.</description>
+    <description_ua>Мотоперчатки Ride 100% XL 3100957866. Характеристики: Размер: XL; Тип товару: Мотоперчатки; Матеріал: Нейлон.</description_ua>
+    <param name="Размер">XL</param>
+    <param name="Состояние">Новое</param>
+  <param name="Тип товару">Мотоперчатки</param><param name="Матеріал">Нейлон</param></offer>
+  <offer id="3140187578" available="false" group_id="683925977">
+    <url>https://vellum.prom.ua/p3140187578-futbolka-nocta-nike.html</url>
+    <price>799</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>35506</categoryId>
+    <picture>https://images.prom.ua/vVnKsXfUdNdY8LC41FL7JYty_2nfWqvty24w8_65U9Y=/7595949648_futbolka-nocta-nike.jpg</picture>
+    <picture>https://images.prom.ua/H4RlOvCE_CqwVJWYWB1mm7ZwWCreqQ-pFljgZIIY7ZM=/7595949650_futbolka-nocta-nike.jpg</picture>
+    <picture>https://images.prom.ua/i0qOigq6jOXhTL89yyZdwtN_WC2I8zwxiHxtAsHkPnM=/7595949647_futbolka-nocta-nike.jpg</picture>
+    <picture>https://images.prom.ua/TbIrs7Y9mdMuV0a6bc4zmjRdI_2mqE6dxyzgaHSBaBk=/7595949652_futbolka-nocta-nike.jpg</picture>
+    <picture>https://images.prom.ua/IjQ7-Paa2g_O2dAWxh09q5WJgdBY8JAOKYYcf9DF_2k=/7595949649_futbolka-nocta-nike.jpg</picture>
+    <picture>https://images.prom.ua/VAQ-yE6AjYfzI9L0iCd9jWZsbdgMwByjDr0z0TPd5bw=/7595949651_futbolka-nocta-nike.jpg</picture>
+    <vendor>Nike</vendor>
+    <stock_quantity>0</stock_quantity><name>Футболка Nike Nocta Сіра L 3140187578</name>
+    <name_ua>Футболка Nike Nocta Сіра L 3140187578</name_ua>
+    <description>Футболка Nike Nocta Сіра L 3140187578. Характеристики: Мoдель: Футболка; Цвет: Серый; Международный размер: L; Вид изделия: Футболка; Тип ткани: Хлопок.</description>
+    <description_ua>Футболка Nike Nocta Сіра L 3140187578. Характеристики: Мoдель: Футболка; Цвет: Серый; Международный размер: L; Вид изделия: Футболка; Тип ткани: Хлопок.</description_ua>
+    <param name="Мoдель">Футболка</param>
+    <param name="Цвет">Серый</param>
+    <param name="Международный размер">L</param>
+    <param name="Вид изделия">Футболка</param>
+    <param name="Тип ткани">Хлопок</param>
+  </offer>
+  <offer id="3140187750" available="true" group_id="683925977">
+    <url>https://vellum.prom.ua/p3140187750-futbolka-nocta-nike.html</url>
+    <price>799</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>35506</categoryId>
+    <picture>https://images.prom.ua/vVnKsXfUdNdY8LC41FL7JYty_2nfWqvty24w8_65U9Y=/7595949648_futbolka-nocta-nike.jpg</picture>
+    <vendor>Nike</vendor>
+    <stock_quantity>1</stock_quantity>
+    <name>Футболка Nike Nocta Чорна L 3140187750</name>
+    <name_ua>Футболка Nike Nocta Чорна L 3140187750</name_ua>
+    <description>Футболка Nike Nocta Чорна L 3140187750. Характеристики: Мoдель: Футболка; Цвет: Черный; Международный размер: L; Вид изделия: Футболка; Тип ткани: Хлопок.</description>
+    <description_ua>Футболка Nike Nocta Чорна L 3140187750. Характеристики: Мoдель: Футболка; Цвет: Черный; Международный размер: L; Вид изделия: Футболка; Тип ткани: Хлопок.</description_ua>
+    <param name="Мoдель">Футболка</param>
+    <param name="Цвет">Черный</param>
+    <param name="Международный размер">L</param>
+    <param name="Вид изделия">Футболка</param>
+    <param name="Тип ткани">Хлопок</param>
+  </offer>
+  <offer id="3140187895" available="true" group_id="683925977">
+    <url>https://vellum.prom.ua/p3140187895-futbolka-nocta-nike.html</url>
+    <price>799</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>35506</categoryId>
+    <picture>https://images.prom.ua/TbIrs7Y9mdMuV0a6bc4zmjRdI_2mqE6dxyzgaHSBaBk=/7595949652_futbolka-nocta-nike.jpg</picture>
+    <picture>https://images.prom.ua/IjQ7-Paa2g_O2dAWxh09q5WJgdBY8JAOKYYcf9DF_2k=/7595949649_futbolka-nocta-nike.jpg</picture>
+    <picture>https://images.prom.ua/H4RlOvCE_CqwVJWYWB1mm7ZwWCreqQ-pFljgZIIY7ZM=/7595949650_futbolka-nocta-nike.jpg</picture>
+    <picture>https://images.prom.ua/vVnKsXfUdNdY8LC41FL7JYty_2nfWqvty24w8_65U9Y=/7595949648_futbolka-nocta-nike.jpg</picture>
+    <vendor>Nike</vendor>
+    <stock_quantity>1</stock_quantity>
+    <name>Футболка Nike Nocta Сіра M 3140187895</name>
+    <name_ua>Футболка Nike Nocta Сіра M 3140187895</name_ua>
+    <description>Футболка Nike Nocta Сіра M 3140187895. Характеристики: Мoдель: Футболка; Цвет: Серый; Международный размер: M; Вид изделия: Футболка; Тип ткани: Хлопок.</description>
+    <description_ua>Футболка Nike Nocta Сіра M 3140187895. Характеристики: Мoдель: Футболка; Цвет: Серый; Международный размер: M; Вид изделия: Футболка; Тип ткани: Хлопок.</description_ua>
+    <param name="Мoдель">Футболка</param>
+    <param name="Цвет">Серый</param>
+    <param name="Международный размер">M</param>
+    <param name="Вид изделия">Футболка</param>
+    <param name="Тип ткани">Хлопок</param>
+  </offer>
+  <offer id="3140188236" available="true" group_id="683925977">
+    <url>https://vellum.prom.ua/p3140188236-futbolka-nocta-nike.html</url>
+    <price>799</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>35506</categoryId>
+    <picture>https://images.prom.ua/vVnKsXfUdNdY8LC41FL7JYty_2nfWqvty24w8_65U9Y=/7595949648_futbolka-nocta-nike.jpg</picture>
+    <picture>https://images.prom.ua/H4RlOvCE_CqwVJWYWB1mm7ZwWCreqQ-pFljgZIIY7ZM=/7595949650_futbolka-nocta-nike.jpg</picture>
+    <picture>https://images.prom.ua/i0qOigq6jOXhTL89yyZdwtN_WC2I8zwxiHxtAsHkPnM=/7595949647_futbolka-nocta-nike.jpg</picture>
+    <picture>https://images.prom.ua/TbIrs7Y9mdMuV0a6bc4zmjRdI_2mqE6dxyzgaHSBaBk=/7595949652_futbolka-nocta-nike.jpg</picture>
+    <picture>https://images.prom.ua/IjQ7-Paa2g_O2dAWxh09q5WJgdBY8JAOKYYcf9DF_2k=/7595949649_futbolka-nocta-nike.jpg</picture>
+    <picture>https://images.prom.ua/VAQ-yE6AjYfzI9L0iCd9jWZsbdgMwByjDr0z0TPd5bw=/7595949651_futbolka-nocta-nike.jpg</picture>
+    <vendor>Nike</vendor>
+    <stock_quantity>1</stock_quantity>
+    <name>Футболка Nike Nocta Чорна M 3140188236</name>
+    <name_ua>Футболка Nike Nocta Чорна M 3140188236</name_ua>
+    <description>Футболка Nike Nocta Чорна M 3140188236. Характеристики: Мoдель: Футболка; Международный размер: M; Вид изделия: Футболка; Тип ткани: Хлопок; Цвет: Черный.</description>
+    <description_ua>Футболка Nike Nocta Чорна M 3140188236. Характеристики: Мoдель: Футболка; Международный размер: M; Вид изделия: Футболка; Тип ткани: Хлопок; Цвет: Черный.</description_ua>
+    <param name="Мoдель">Футболка</param>
+    <param name="Международный размер">M</param>
+    <param name="Вид изделия">Футболка</param>
+    <param name="Тип ткани">Хлопок</param>
+    <param name="Цвет" unit="">Черный</param>
+  </offer>
+  <offer id="3140193646" available="false" group_id="962119531">
+    <url>https://vellum.prom.ua/p3140193646-shorty-stone-island.html</url>
+    <price>899</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>30602</categoryId>
+    <picture>https://images.prom.ua/cWZxVg-SnWhokTPEXSHQ4cQd_epvKJZobOgTqT0hRns=/7595972728_shorty-stone-island.jpg</picture>
+    <picture>https://images.prom.ua/ogZBBIxapaxjGe0sqeWZp-za-EAZBKD8RyIawz65e8k=/7595972730_shorty-stone-island.jpg</picture>
+    <picture>https://images.prom.ua/Cmmr1jkGvCdmoNTQgU9K1JFBCxnZSB_I6Y2KuX2SrQg=/7595972734_shorty-stone-island.jpg</picture>
+    <picture>https://images.prom.ua/IpnFxjpPrtGJ4PjTA6JfXMXbHXr4-uJqpWRU65HOQK8=/7473729778_shorty-stone-island.jpg</picture>
+    <picture>https://images.prom.ua/eK1l-dtiOo8I0BIsA6T6lgEPAJVwZG1CS4vUNb_vDds=/7595972731_shorty-stone-island.jpg</picture>
+    <vendor>Stone Island</vendor>
+    <stock_quantity>0</stock_quantity><name>Шорти Stone Island Нейлонові Сірі M 3140193646</name>
+    <name_ua>Шорти Stone Island Нейлонові Сірі M 3140193646</name_ua>
+    <description>Шорти Stone Island Нейлонові Сірі M 3140193646. Характеристики: Тип товара: Шорты; Цвет: Серый; Международный размер: M; Тип ткани: Нейлон.</description>
+    <description_ua>Шорти Stone Island Нейлонові Сірі M 3140193646. Характеристики: Тип товара: Шорты; Цвет: Серый; Международный размер: M; Тип ткани: Нейлон.</description_ua>
+    <param name="Тип товара">Шорты</param>
+    <param name="Цвет">Серый</param>
+    <param name="Международный размер">M</param>
+    <param name="Состояние">Новое</param>
+    <param name="Тип ткани">Нейлон</param>
+  </offer>
+  <offer id="3140193685" available="false" group_id="962119531">
+    <url>https://vellum.prom.ua/p3140193685-shorty-stone-island.html</url>
+    <price>899</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>30602</categoryId>
+    <picture>https://images.prom.ua/cWZxVg-SnWhokTPEXSHQ4cQd_epvKJZobOgTqT0hRns=/7595972728_shorty-stone-island.jpg</picture>
+    <vendor>Stone Island</vendor>
+    <stock_quantity>0</stock_quantity><name>Шорти Stone Island Нейлонові Сірі L 3140193685</name>
+    <name_ua>Шорти Stone Island Нейлонові Сірі L 3140193685</name_ua>
+    <description>Шорти Stone Island Нейлонові Сірі L 3140193685. Характеристики: Тип товара: Шорты; Цвет: Серый; Международный размер: L; Тип ткани: Нейлон.</description>
+    <description_ua>Шорти Stone Island Нейлонові Сірі L 3140193685. Характеристики: Тип товара: Шорты; Цвет: Серый; Международный размер: L; Тип ткани: Нейлон.</description_ua>
+    <param name="Тип товара">Шорты</param>
+    <param name="Цвет">Серый</param>
+    <param name="Международный размер">L</param>
+    <param name="Состояние">Новое</param>
+    <param name="Тип ткани">Нейлон</param>
+  </offer>
+  <offer id="3185866104" available="true" group_id="746299966">
+    <article>513443</article>
+    <url>https://vellum.prom.ua/p3185866104-supreme-maison-margiela.html</url>
+    <price_old>1599</price_old>
+    <price>1279.2</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>30503</categoryId>
+    <picture>https://images.prom.ua/UOFRUxWqVfiytNIpCS2-4N1PEp_Lsg4Ea8sl3izyuIU=/6856152278_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/GCBbKYa34f0SZUw85z1yKktekAzRekIwmS4M0kZnw-M=/6856151704_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/gFaoQIwdh-qcuwkYNW5yPNXG2Z4yTQkRGGnFQfyPqAY=/6856151705_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/6lDrfPa9yVHO-00dTBAnAUqBJUI4S5Q7u7fJUkOQFUY=/6856151703_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/QxCq11IW9xng4XmtA02p2BIFUSO6rkpjyxMmVaEimqA=/6856151702_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/2VljBzANFAiblmZRffm6s-DbHLwWUu5BF3ViYPTaX1k=/7688809740_supreme-x-maison.jpg</picture>
+    <vendor>Supreme</vendor>
+    <stock_quantity>1</stock_quantity>
+    <name>Худі Supreme Maison Margiela Сіре L 3185866104</name>
+    <name_ua>Худі Supreme Maison Margiela Сіре L 3185866104</name_ua>
+    <description>Худі Supreme Maison Margiela Сіре L 3185866104. Характеристики: Вид толстовок: Худи; Размер мужской одежды: 52; Цвет: Серый; Тип ткани: Флис; Международный размер: L.</description>
+    <description_ua>Худі Supreme Maison Margiela Сіре L 3185866104. Характеристики: Вид толстовок: Худи; Размер мужской одежды: 52; Цвет: Серый; Тип ткани: Флис; Международный размер: L.</description_ua>
+    <param name="Вид толстовок">Худи</param>
+    <param name="Размер мужской одежды">52</param>
+    <param name="Цвет">Серый</param>
+    <param name="Тип ткани">Флис</param>
+    <param name="Состояние">Новое</param>
+    <param name="Международный размер">L</param>
+  </offer>
+  <offer id="3207731466" available="true" group_id="746299966">
+    <url>https://vellum.prom.ua/p3207731466-supreme-maison-margiela.html</url>
+    <price_old>1599</price_old>
+    <price>1279.2</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>30503</categoryId>
+    <picture>https://images.prom.ua/UOFRUxWqVfiytNIpCS2-4N1PEp_Lsg4Ea8sl3izyuIU=/6856152278_supreme-x-maison.jpg</picture>
+    <vendor>Supreme</vendor>
+    <stock_quantity>3</stock_quantity>
+    <name>Худі Supreme Maison Margiela Сіре S 3207731466</name>
+    <name_ua>Худі Supreme Maison Margiela Сіре S 3207731466</name_ua>
+    <description>Худі Supreme Maison Margiela Сіре S 3207731466. Характеристики: Вид толстовок: Худи; Размер мужской одежды: 52; Цвет: Серый; Тип ткани: Флис; Международный размер: S.</description>
+    <description_ua>Худі Supreme Maison Margiela Сіре S 3207731466. Характеристики: Вид толстовок: Худи; Размер мужской одежды: 52; Цвет: Серый; Тип ткани: Флис; Международный размер: S.</description_ua>
+    <param name="Вид толстовок">Худи</param>
+    <param name="Размер мужской одежды">52</param>
+    <param name="Цвет">Серый</param>
+    <param name="Тип ткани">Флис</param>
+    <param name="Состояние">Новое</param>
+    <param name="Международный размер">S</param>
+  </offer>
+  <offer id="3210324641" available="true" group_id="746299966">
+    <url>https://vellum.prom.ua/p3210324641-supreme-maison-margiela.html</url>
+    <price_old>1599</price_old>
+    <price>1279.2</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>30503</categoryId>
+    <picture>https://images.prom.ua/c_CIt1VTTrTHqmA-J6T4UFBefYxOWxfmGMzr5982Z24=/7742062718_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/oWZm0brFmHDYPkfIm8SjIVmWNzW5Db1PQ0CgPhl5ixA=/7742062720_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/WxjUyTf1Xtx8eHZ8wVg3BEsrJ5zcZQIuva3xUxiAs2w=/7742062721_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/Zy3RuBUCTTP5VfWpYPZmD69-k9OnaAeSX2EmGH4FfSs=/7742050559_supreme-x-maison.jpg</picture>
+    <vendor>Supreme</vendor>
+    <stock_quantity>3</stock_quantity>
+    <name>Худі Supreme Maison Margiela Чорне M 3210324641</name>
+    <name_ua>Худі Supreme Maison Margiela Чорне M 3210324641</name_ua>
+    <description>Худі Supreme Maison Margiela Чорне M 3210324641. Характеристики: Вид толстовок: Худи; Размер мужской одежды: 52; Цвет: Черный; Тип ткани: Флис; Международный размер: M.</description>
+    <description_ua>Худі Supreme Maison Margiela Чорне M 3210324641. Характеристики: Вид толстовок: Худи; Размер мужской одежды: 52; Цвет: Черный; Тип ткани: Флис; Международный размер: M.</description_ua>
+    <param name="Вид толстовок">Худи</param>
+    <param name="Размер мужской одежды">52</param>
+    <param name="Цвет">Черный</param>
+    <param name="Тип ткани">Флис</param>
+    <param name="Состояние">Новое</param>
+    <param name="Международный размер" unit="">M</param>
+  </offer>
+  <offer id="3210329579" available="true" group_id="746299966">
+    <url>https://vellum.prom.ua/p3210329579-supreme-maison-margiela.html</url>
+    <price_old>1599</price_old>
+    <price>1279.2</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>30503</categoryId>
+    <picture>https://images.prom.ua/c_CIt1VTTrTHqmA-J6T4UFBefYxOWxfmGMzr5982Z24=/7742062718_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/oWZm0brFmHDYPkfIm8SjIVmWNzW5Db1PQ0CgPhl5ixA=/7742062720_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/WxjUyTf1Xtx8eHZ8wVg3BEsrJ5zcZQIuva3xUxiAs2w=/7742062721_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/Zy3RuBUCTTP5VfWpYPZmD69-k9OnaAeSX2EmGH4FfSs=/7742050559_supreme-x-maison.jpg</picture>
+    <vendor>Supreme</vendor>
+    <stock_quantity>2</stock_quantity>
+    <name>Худі Supreme Maison Margiela Чорне L 3210329579</name>
+    <name_ua>Худі Supreme Maison Margiela Чорне L 3210329579</name_ua>
+    <description>Худі Supreme Maison Margiela Чорне L 3210329579. Характеристики: Вид толстовок: Худи; Размер мужской одежды: 52; Цвет: Черный; Тип ткани: Флис; Международный размер: L.</description>
+    <description_ua>Худі Supreme Maison Margiela Чорне L 3210329579. Характеристики: Вид толстовок: Худи; Размер мужской одежды: 52; Цвет: Черный; Тип ткани: Флис; Международный размер: L.</description_ua>
+    <param name="Вид толстовок">Худи</param>
+    <param name="Размер мужской одежды">52</param>
+    <param name="Цвет">Черный</param>
+    <param name="Тип ткани">Флис</param>
+    <param name="Состояние">Новое</param>
+    <param name="Международный размер" unit="">L</param>
+  </offer>
+  <offer id="3210329768" available="true" group_id="746299966">
+    <url>https://vellum.prom.ua/p3210329768-supreme-maison-margiela.html</url>
+    <price_old>1599</price_old>
+    <price>1279.2</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>30503</categoryId>
+    <picture>https://images.prom.ua/c_CIt1VTTrTHqmA-J6T4UFBefYxOWxfmGMzr5982Z24=/7742062718_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/oWZm0brFmHDYPkfIm8SjIVmWNzW5Db1PQ0CgPhl5ixA=/7742062720_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/WxjUyTf1Xtx8eHZ8wVg3BEsrJ5zcZQIuva3xUxiAs2w=/7742062721_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/Zy3RuBUCTTP5VfWpYPZmD69-k9OnaAeSX2EmGH4FfSs=/7742050559_supreme-x-maison.jpg</picture>
+    <vendor>Supreme</vendor>
+    <stock_quantity>1</stock_quantity>
+    <name>Худі Supreme Maison Margiela Чорне XL 3210329768</name>
+    <name_ua>Худі Supreme Maison Margiela Чорне XL 3210329768</name_ua>
+    <description>Худі Supreme Maison Margiela Чорне XL 3210329768. Характеристики: Вид толстовок: Худи; Размер мужской одежды: 52; Цвет: Черный; Тип ткани: Флис; Международный размер: XL.</description>
+    <description_ua>Худі Supreme Maison Margiela Чорне XL 3210329768. Характеристики: Вид толстовок: Худи; Размер мужской одежды: 52; Цвет: Черный; Тип ткани: Флис; Международный размер: XL.</description_ua>
+    <param name="Вид толстовок">Худи</param>
+    <param name="Размер мужской одежды">52</param>
+    <param name="Цвет">Черный</param>
+    <param name="Тип ткани">Флис</param>
+    <param name="Состояние">Новое</param>
+    <param name="Международный размер" unit="">XL</param>
+  </offer>
+  <offer id="3210359889" available="true" group_id="886950764">
+    <url>https://vellum.prom.ua/p3210359889-sumka-dior-mini.html</url>
+    <price>1299</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152411</categoryId>
+    <picture>https://images.prom.ua/LfLab_9I1sCYZRpM5-7_Z-eM9s57W8R5wfqyaNkqs04=/7742151833_sumka-dior-mini.jpg</picture>
+    <picture>https://images.prom.ua/lnIo0KYHPNWBW_-dKCoemBJ8CKoWf1QFYTbNuSrwvuk=/7742151834_sumka-dior-mini.jpg</picture>
+    <picture>https://images.prom.ua/97Y0OgA17d-1npT4Fh4u0wRXzNBcwnFlwN7xbQ9XHCQ=/7742151837_sumka-dior-mini.jpg</picture>
+    <vendor>Без бренду</vendor>
+    <stock_quantity>9</stock_quantity>
+    <name>Сумка Без бренду Mini Saddle Messenger Bag Чорна 3210359889</name>
+    <name_ua>Сумка Без бренду Mini Saddle Messenger Bag Чорна 3210359889</name_ua>
+    <description>Сумка Без бренду Mini Saddle Messenger Bag Чорна 3210359889. Характеристики: Тип сумки: Кросс-боди; Форма: Прямоугольная; Размер: Малый; Цвет: Черный; Жесткость: Жесткая; Плечевой ремень: Да.</description>
+    <description_ua>Сумка Без бренду Mini Saddle Messenger Bag Чорна 3210359889. Характеристики: Тип сумки: Кросс-боди; Форма: Прямоугольная; Размер: Малый; Цвет: Черный; Жесткость: Жесткая; Плечевой ремень: Да.</description_ua>
+    <param name="Тип сумки">Кросс-боди</param>
+    <param name="Форма">Прямоугольная</param>
+    <param name="Размер">Малый</param>
+    <param name="Цвет">Черный</param>
+    <param name="Жесткость">Жесткая</param>
+    <param name="Плечевой ремень">Да</param>
+  </offer>
+  <offer id="3222859451" available="true" group_id="746299966">
+    <url>https://vellum.prom.ua/p3222859451-supreme-maison-margiela.html</url>
+    <price_old>1599</price_old>
+    <price>1279.2</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>30503</categoryId>
+    <picture>https://images.prom.ua/ctajTvQdDdvaFfHxl6uufk333BsIq-uhBfmeoW3FeAI=/7767941944_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/3rM9rGn-bCRWizjRUpjg1R1LVusuFwdmP5kVeuR-hes=/7767941951_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/RQm3AWq-V0ZwYys4jZB24Cf4j12nHMKCTtHmxhWWpNU=/7767942003_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/R0hO9YjxKVgEb6HDPFCaIF25WUNaoCIBPJufNQeHyZw=/7767941964_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/lC5FG18YF7N9Kjdkh4jYCilgig8tNb5zxTrgSft5L9c=/7767941926_supreme-x-maison.jpg</picture>
+    <vendor>Supreme</vendor>
+    <stock_quantity>3</stock_quantity>
+    <name>Худі Supreme Maison Margiela Зелене M 3222859451</name>
+    <name_ua>Худі Supreme Maison Margiela Зелене M 3222859451</name_ua>
+    <description>Худі Supreme Maison Margiela Зелене M 3222859451. Характеристики: Вид толстовок: Худи; Размер мужской одежды: 52; Цвет: Зеленый; Тип ткани: Флис; Международный размер: M.</description>
+    <description_ua>Худі Supreme Maison Margiela Зелене M 3222859451. Характеристики: Вид толстовок: Худи; Размер мужской одежды: 52; Цвет: Зеленый; Тип ткани: Флис; Международный размер: M.</description_ua>
+    <param name="Вид толстовок">Худи</param>
+    <param name="Размер мужской одежды">52</param>
+    <param name="Цвет">Зеленый</param>
+    <param name="Тип ткани">Флис</param>
+    <param name="Состояние">Новое</param>
+    <param name="Международный размер" unit="">M</param>
+  </offer>
+  <offer id="3222859932" available="true" group_id="746299966">
+    <url>https://vellum.prom.ua/p3222859932-supreme-maison-margiela.html</url>
+    <price_old>1599</price_old>
+    <price>1279.2</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>30503</categoryId>
+    <picture>https://images.prom.ua/ctajTvQdDdvaFfHxl6uufk333BsIq-uhBfmeoW3FeAI=/7767941944_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/3rM9rGn-bCRWizjRUpjg1R1LVusuFwdmP5kVeuR-hes=/7767941951_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/RQm3AWq-V0ZwYys4jZB24Cf4j12nHMKCTtHmxhWWpNU=/7767942003_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/R0hO9YjxKVgEb6HDPFCaIF25WUNaoCIBPJufNQeHyZw=/7767941964_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/lC5FG18YF7N9Kjdkh4jYCilgig8tNb5zxTrgSft5L9c=/7767941926_supreme-x-maison.jpg</picture>
+    <vendor>Supreme</vendor>
+    <stock_quantity>2</stock_quantity>
+    <name>Худі Supreme Maison Margiela Зелене L 3222859932</name>
+    <name_ua>Худі Supreme Maison Margiela Зелене L 3222859932</name_ua>
+    <description>Худі Supreme Maison Margiela Зелене L 3222859932. Характеристики: Вид толстовок: Худи; Размер мужской одежды: 52; Цвет: Зеленый; Тип ткани: Флис; Международный размер: L.</description>
+    <description_ua>Худі Supreme Maison Margiela Зелене L 3222859932. Характеристики: Вид толстовок: Худи; Размер мужской одежды: 52; Цвет: Зеленый; Тип ткани: Флис; Международный размер: L.</description_ua>
+    <param name="Вид толстовок">Худи</param>
+    <param name="Размер мужской одежды">52</param>
+    <param name="Цвет">Зеленый</param>
+    <param name="Тип ткани">Флис</param>
+    <param name="Состояние">Новое</param>
+    <param name="Международный размер" unit="">L</param>
+  </offer>
+  <offer id="3232239197" available="true" group_id="907142219">
+    <url>https://vellum.prom.ua/p3232239197-barhatnaya-olimpijka-molnii.html</url>
+    <price>2499</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>30503</categoryId>
+    <picture>https://images.prom.ua/tNylDKlkcjHTQCNMS5kdVNJ4GSGcjkpEBLV6eedB4Yk=/7787312652_barhatnaya-olimpijka-na.jpg</picture>
+    <picture>https://images.prom.ua/A9BXqtukKjvsW4iAy5xNL9MnoQEQC3xg4cIBGcJbUBw=/7787312648_barhatnaya-olimpijka-na.jpg</picture>
+    <picture>https://images.prom.ua/dItyFyhsH4coPdBne5zi0J-GUNDS3-8RC521NRra4SQ=/7787312666_barhatnaya-olimpijka-na.jpg</picture>
+    <stock_quantity>1</stock_quantity>
+    <vendor>Amiri</vendor><name>Олімпійка Amiri Оксамитова Чорно біла M 3232239197</name>
+    <name_ua>Олімпійка Amiri Оксамитова Чорно біла M 3232239197</name_ua>
+    <description>Олімпійка Amiri Оксамитова Чорно біла M 3232239197. Характеристики: Вид толстовок: Олимпийка; Цвет: Черный с белым; Тип ткани: Велюр; Сезонность: Всесезонный; Капюшон: Без капюшона; Международный размер: M; Сезон: Всесезонный; Наличие капюшона: Нет.</description>
+    <description_ua>Олімпійка Amiri Оксамитова Чорно біла M 3232239197. Характеристики: Вид толстовок: Олимпийка; Цвет: Черный с белым; Тип ткани: Велюр; Сезонность: Всесезонный; Капюшон: Без капюшона; Международный размер: M; Сезон: Всесезонный; Наличие капюшона: Нет.</description_ua>
+    <param name="Вид толстовок">Олимпийка</param>
+    <param name="Цвет">Черный с белым</param>
+    <param name="Тип ткани">Велюр</param>
+    <param name="Сезонность">Всесезонный</param>
+    <param name="Капюшон">Без капюшона</param>
+    <param name="Состояние">Новое</param>
+    <param name="Международный размер">M</param>
+    <param name="Сезон">Всесезонный</param>
+    <param name="Наличие капюшона">Нет</param>
+  </offer>
+  <offer id="3232239473" available="true" group_id="907142219">
+    <url>https://vellum.prom.ua/p3232239473-barhatnaya-olimpijka-molnii.html</url>
+    <price>2499</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>30503</categoryId>
+    <picture>https://images.prom.ua/tNylDKlkcjHTQCNMS5kdVNJ4GSGcjkpEBLV6eedB4Yk=/7787312652_barhatnaya-olimpijka-na.jpg</picture>
+    <stock_quantity>1</stock_quantity>
+    <vendor>Amiri</vendor><name>Олімпійка Amiri Оксамитова Чорно біла L 3232239473</name>
+    <name_ua>Олімпійка Amiri Оксамитова Чорно біла L 3232239473</name_ua>
+    <description>Олімпійка Amiri Оксамитова Чорно біла L 3232239473. Характеристики: Вид толстовок: Олимпийка; Цвет: Черный с белым; Тип ткани: Велюр; Сезонность: Всесезонный; Капюшон: Без капюшона; Международный размер: L; Сезон: Всесезонный; Наличие капюшона: Нет.</description>
+    <description_ua>Олімпійка Amiri Оксамитова Чорно біла L 3232239473. Характеристики: Вид толстовок: Олимпийка; Цвет: Черный с белым; Тип ткани: Велюр; Сезонность: Всесезонный; Капюшон: Без капюшона; Международный размер: L; Сезон: Всесезонный; Наличие капюшона: Нет.</description_ua>
+    <param name="Вид толстовок">Олимпийка</param>
+    <param name="Цвет">Черный с белым</param>
+    <param name="Тип ткани">Велюр</param>
+    <param name="Сезонность">Всесезонный</param>
+    <param name="Капюшон">Без капюшона</param>
+    <param name="Состояние">Новое</param>
+    <param name="Международный размер">L</param>
+    <param name="Сезон">Всесезонный</param>
+    <param name="Наличие капюшона">Нет</param>
+  </offer>
+  <offer id="3236903171" available="true" group_id="962683878">
+    <url>https://vellum.prom.ua/p3236903171-futbolka-maison-margiela.html</url>
+    <price>499</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>35506</categoryId>
+    <picture>https://images.prom.ua/QhhIkY-B_zbip_erRvogUfNsR1NlXiAuJCu9aIOM2-Q=/7798540147_futbolka-maison-margiela.jpg</picture>
+    <stock_quantity>1</stock_quantity>
+    <vendor>Maison Margiela</vendor><name>Футболка Maison Margiela З принтом Біла L 3236903171</name>
+    <name_ua>Футболка Maison Margiela З принтом Біла L 3236903171</name_ua>
+    <description>Футболка Maison Margiela З принтом Біла L 3236903171. Характеристики: Цвет: Белый; Международный размер: L; Мoдель: Футболка; Вид изделия: Футболка.</description>
+    <description_ua>Футболка Maison Margiela З принтом Біла L 3236903171. Характеристики: Цвет: Белый; Международный размер: L; Мoдель: Футболка; Вид изделия: Футболка.</description_ua>
+    <param name="Цвет">Белый</param>
+    <param name="Международный размер">L</param>
+    <param name="Мoдель">Футболка</param>
+    <param name="Вид изделия">Футболка</param>
+  </offer>
+  <offer id="3236905855" available="true" group_id="643104969">
+    <url>https://vellum.prom.ua/p3236905855-futbolka-maison-margiela.html</url>
+    <price>499</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>35506</categoryId>
+    <picture>https://images.prom.ua/_eHqxcGfJgUqukNNA96Ua5uuAYc8U02GW4gOEBJna8k=/7798556533_futbolka-maison-margiela.jpg</picture>
+    <picture>https://images.prom.ua/5MSSCr2cfsoI9ACv09Mg9NHmBUPw9ro8570W2Y9-P24=/7798540145_futbolka-maison-margiela.jpg</picture>
+    <stock_quantity>1</stock_quantity>
+    <vendor>Maison Margiela</vendor><name>Футболка Maison Margiela З принтом Біла M 3236905855</name>
+    <name_ua>Футболка Maison Margiela З принтом Біла M 3236905855</name_ua>
+    <description>Футболка Maison Margiela З принтом Біла M 3236905855. Характеристики: Цвет: Белый; Международный размер: M; Мoдель: Футболка; Вид изделия: Футболка.</description>
+    <description_ua>Футболка Maison Margiela З принтом Біла M 3236905855. Характеристики: Цвет: Белый; Международный размер: M; Мoдель: Футболка; Вид изделия: Футболка.</description_ua>
+    <param name="Цвет">Белый</param>
+    <param name="Международный размер">M</param>
+    <param name="Мoдель">Футболка</param>
+    <param name="Вид изделия">Футболка</param>
+  </offer>
+  <offer id="3236907577" available="true" group_id="876528425">
+    <url>https://vellum.prom.ua/p3236907577-futbolka-maison-margiela.html</url>
+    <price>499</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>35506</categoryId>
+    <picture>https://images.prom.ua/aOyftQb8ZzeGNaUDNLpjxWSQJxOHC_mm7QOUfW8Ce7I=/7798563893_futbolka-maison-margiela.jpg</picture>
+    <picture>https://images.prom.ua/5MSSCr2cfsoI9ACv09Mg9NHmBUPw9ro8570W2Y9-P24=/7798540145_futbolka-maison-margiela.jpg</picture>
+    <stock_quantity>1</stock_quantity>
+    <vendor>Maison Margiela</vendor><name>Футболка Maison Margiela З принтом Біла M 3236907577</name>
+    <name_ua>Футболка Maison Margiela З принтом Біла M 3236907577</name_ua>
+    <description>Футболка Maison Margiela З принтом Біла M 3236907577. Характеристики: Цвет: Белый; Международный размер: M; Вид изделия: Футболка.</description>
+    <description_ua>Футболка Maison Margiela З принтом Біла M 3236907577. Характеристики: Цвет: Белый; Международный размер: M; Вид изделия: Футболка.</description_ua>
+    <param name="Цвет">Белый</param>
+    <param name="Международный размер">M</param>
+    <param name="Вид изделия">Футболка</param>
+  </offer>
+  <offer id="3236908080" available="true" group_id="876528425">
+    <url>https://vellum.prom.ua/p3236908080-futbolka-maison-margiela.html</url>
+    <price>499</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>35506</categoryId>
+    <picture>https://images.prom.ua/aOyftQb8ZzeGNaUDNLpjxWSQJxOHC_mm7QOUfW8Ce7I=/7798563893_futbolka-maison-margiela.jpg</picture>
+    <stock_quantity>1</stock_quantity>
+    <vendor>Maison Margiela</vendor><name>Футболка Maison Margiela З принтом Біла L 3236908080</name>
+    <name_ua>Футболка Maison Margiela З принтом Біла L 3236908080</name_ua>
+    <description>Футболка Maison Margiela З принтом Біла L 3236908080. Характеристики: Цвет: Белый; Международный размер: L; Вид изделия: Футболка.</description>
+    <description_ua>Футболка Maison Margiela З принтом Біла L 3236908080. Характеристики: Цвет: Белый; Международный размер: L; Вид изделия: Футболка.</description_ua>
+    <param name="Цвет">Белый</param>
+    <param name="Международный размер">L</param>
+    <param name="Вид изделия">Футболка</param>
+  </offer>
+  <offer id="3236910875" available="true">
+    <url>https://vellum.prom.ua/p3236910875-futbolka-chernaya-polyester.html</url>
+    <price>499</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>35506</categoryId>
+    <picture>https://images.prom.ua/Zsqtk6gAmOvIse5OMNysY6Bo8H0JIATdS_ZGHF-Ap4E=/7798572557_futbolka-chernaya-polyester.jpg</picture>
+    <picture>https://images.prom.ua/21HzxDE3lC4UMu1RnYRMK5RzqlYQOSbYmNmOmiyj5OM=/7798572581_futbolka-chernaya-polyester.jpg</picture>
+    <vendor>Без бренду</vendor><stock_quantity>1</stock_quantity>
+    <name>Футболка Без бренду Чорна L 3236910875</name>
+    <name_ua>Футболка Без бренду Чорна L 3236910875</name_ua>
+    <description>Футболка Без бренду Чорна L 3236910875. Характеристики: Цвет: Черный; Международный размер: L; Вид изделия: Футболка.</description>
+    <description_ua>Футболка Без бренду Чорна L 3236910875. Характеристики: Цвет: Черный; Международный размер: L; Вид изделия: Футболка.</description_ua>
+    <param name="Цвет">Черный</param>
+    <param name="Международный размер">L</param>
+    <param name="Вид изделия">Футболка</param>
+  </offer>
+  <offer id="3236918583" available="true">
+    <url>https://vellum.prom.ua/p3236918583-futbolka-belaya-polyester.html</url>
+    <price>499</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>35506</categoryId>
+    <picture>https://images.prom.ua/MUPZq65x5upgPUg5N5SP-4UD6-xPs2XTV-CYSRwYsHE=/7798608413_futbolka-belaya-polyester.jpg</picture>
+    <picture>https://images.prom.ua/UVRymH9OsgSQO5o-kE9Vlx8223pf1ShHhOC2DlvBOgE=/7798608765_futbolka-belaya-polyester.jpg</picture>
+    <vendor>Без бренду</vendor><stock_quantity>1</stock_quantity>
+    <name>Футболка Без бренду Біла M 3236918583</name>
+    <name_ua>Футболка Без бренду Біла M 3236918583</name_ua>
+    <description>Футболка Без бренду Біла M 3236918583. Характеристики: Цвет: Белый; Международный размер: M; Вид изделия: Футболка; Мoдель: Футболка.</description>
+    <description_ua>Футболка Без бренду Біла M 3236918583. Характеристики: Цвет: Белый; Международный размер: M; Вид изделия: Футболка; Мoдель: Футболка.</description_ua>
+    <param name="Цвет">Белый</param>
+    <param name="Международный размер">M</param>
+    <param name="Вид изделия">Футболка</param>
+    <param name="Мoдель">Футболка</param>
+  </offer>
+  <offer id="3251759559" available="true" group_id="881012018">
+    <url>https://vellum.prom.ua/p3251759559-chyornaya-muzhskaya-hudi.html</url>
+    <price>2199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>30503</categoryId>
+    <picture>https://images.prom.ua/kN7l3nyNN7fQ1JyJTgKJwlfE-ltp9ykRhbQgyqXYCdo=/7836387194_chyornaya-muzhskaya-hudi.jpg</picture>
+    <picture>https://images.prom.ua/5p4uSNYMNjDuAkKseyoQE0qAYHFpOnyTjlyB3Yv7jsA=/7836387199_chyornaya-muzhskaya-hudi.jpg</picture>
+    <picture>https://images.prom.ua/Dgh9Y3xSXshkleAcHzFzM58_FuEmOGhezxm7ptuJe-o=/7836387204_chyornaya-muzhskaya-hudi.jpg</picture>
+    <picture>https://images.prom.ua/zutHWyFvn6PWzIMzql7USt5frANU3LBvNoSBC9jWHxg=/7836387206_chyornaya-muzhskaya-hudi.jpg</picture>
+    <picture>https://images.prom.ua/rqoS19gFRxTSF97IAMUyXZwlPwvwmUBVmvbpu1J4wo4=/7836387207_chyornaya-muzhskaya-hudi.jpg</picture>
+    <picture>https://images.prom.ua/I0Hk89uYKsXRJo6YLQYOt3nmQWr7iIFbuqq5X6AXpBo=/7836387210_chyornaya-muzhskaya-hudi.jpg</picture>
+    <picture>https://images.prom.ua/rJtt5OQKrvjSBF441vYNklloyh2MMzMMmGFhqT126YA=/7836387212_chyornaya-muzhskaya-hudi.jpg</picture>
+    <picture>https://images.prom.ua/JjVjmHPX1aXX-jwty3MCzjdOHwNMWvWJIsptPPdNKZc=/7836387211_chyornaya-muzhskaya-hudi.jpg</picture>
+    <stock_quantity>1</stock_quantity>
+    <vendor>Chrome Hearts</vendor><name>Худі Chrome Hearts На блискавці Чорне L 3251759559</name>
+    <name_ua>Худі Chrome Hearts На блискавці Чорне L 3251759559</name_ua>
+    <description>Худі Chrome Hearts На блискавці Чорне L 3251759559. Характеристики: Вид толстовок: Худи; Цвет: Черный; Международный размер: L.</description>
+    <description_ua>Худі Chrome Hearts На блискавці Чорне L 3251759559. Характеристики: Вид толстовок: Худи; Цвет: Черный; Международный размер: L.</description_ua>
+    <param name="Вид толстовок">Худи</param>
+    <param name="Цвет">Черный</param>
+    <param name="Состояние">Новое</param>
+    <param name="Международный размер">L</param>
+  </offer>
+  <offer id="3251759636" available="true" group_id="881012018">
+    <url>https://vellum.prom.ua/p3251759636-chyornaya-muzhskaya-hudi.html</url>
+    <price>2199</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>30503</categoryId>
+    <picture>https://images.prom.ua/kN7l3nyNN7fQ1JyJTgKJwlfE-ltp9ykRhbQgyqXYCdo=/7836387194_chyornaya-muzhskaya-hudi.jpg</picture>
+    <stock_quantity>1</stock_quantity>
+    <vendor>Chrome Hearts</vendor><name>Худі Chrome Hearts На блискавці Чорне M 3251759636</name>
+    <name_ua>Худі Chrome Hearts На блискавці Чорне M 3251759636</name_ua>
+    <description>Худі Chrome Hearts На блискавці Чорне M 3251759636. Характеристики: Вид толстовок: Худи; Цвет: Черный; Международный размер: M.</description>
+    <description_ua>Худі Chrome Hearts На блискавці Чорне M 3251759636. Характеристики: Вид толстовок: Худи; Цвет: Черный; Международный размер: M.</description_ua>
+    <param name="Вид толстовок">Худи</param>
+    <param name="Цвет">Черный</param>
+    <param name="Состояние">Новое</param>
+    <param name="Международный размер">M</param>
+  </offer>
+  <offer id="3251862182" available="true">
+    <url>https://vellum.prom.ua/p3251862182-braslet-lakosta-stalnoj.html</url>
+    <price_old>700</price_old>
+    <price>665</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>36090301</categoryId>
+    <picture>https://images.prom.ua/wXzwnYTGmupdZQDYTSjojospyKcbcT7uwbFDps49sEk=/7836633571_braslet-lakosta-stalnoj.jpg</picture>
+    <vendor>Без бренду</vendor><stock_quantity>15</stock_quantity>
+    <name>Браслет сталевий Без бренду Сріблястий 3251862182</name>
+    <name_ua>Браслет сталевий Без бренду Сріблястий 3251862182</name_ua>
+    <description>Браслет сталевий Без бренду Сріблястий 3251862182. Характеристики: Тип: На руку; Пол: Унисекс; Материал: Нержавеющая сталь; Цвет: Серебристый.</description>
+    <description_ua>Браслет сталевий Без бренду Сріблястий 3251862182. Характеристики: Тип: На руку; Пол: Унисекс; Материал: Нержавеющая сталь; Цвет: Серебристый.</description_ua>
+    <param name="Тип">На руку</param>
+    <param name="Пол">Унисекс</param>
+    <param name="Материал">Нержавеющая сталь</param>
+    <param name="Цвет">Серебристый</param>
+  </offer>
+  <offer id="3266504071" available="false" group_id="886950764">
+    <url>https://vellum.prom.ua/p3266504071-sumka-dior-mini.html</url>
+    <price>1299</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>152411</categoryId>
+    <picture>https://images.prom.ua/w910M6khiyIL_-gN5o72S02G4w6gkWvICqaY88pUn9o=/7782301894_sumka-dior-mini.jpg</picture>
+    <picture>https://images.prom.ua/u3ThkNKNRyBx-nIrJNxBxKVGpdXDTTjgAfSzYb77lXw=/7782301896_sumka-dior-mini.jpg</picture>
+    <picture>https://images.prom.ua/MW0c15lIK7bS7yvoIFQ1bW6nL8R748TUVZLhim3wo-s=/7782301895_sumka-dior-mini.jpg</picture>
+    <vendor>Без бренду</vendor>
+    <stock_quantity>0</stock_quantity><name>Сумка Без бренду Mini Saddle Messenger Bag Сіра 3266504071</name>
+    <name_ua>Сумка Без бренду Mini Saddle Messenger Bag Сіра 3266504071</name_ua>
+    <description>Сумка Без бренду Mini Saddle Messenger Bag Сіра 3266504071. Характеристики: Тип сумки: Кросс-боди; Форма: Прямоугольная; Размер: Малый; Жесткость: Жесткая; Плечевой ремень: Да; Цвет: Серый.</description>
+    <description_ua>Сумка Без бренду Mini Saddle Messenger Bag Сіра 3266504071. Характеристики: Тип сумки: Кросс-боди; Форма: Прямоугольная; Размер: Малый; Жесткость: Жесткая; Плечевой ремень: Да; Цвет: Серый.</description_ua>
+    <param name="Тип сумки">Кросс-боди</param>
+    <param name="Форма">Прямоугольная</param>
+    <param name="Размер">Малый</param>
+    <param name="Жесткость">Жесткая</param>
+    <param name="Плечевой ремень">Да</param>
+    <param name="Цвет">Серый</param>
+  </offer>
+  <offer id="3277555760" available="true">
+    <url>https://vellum.prom.ua/p3277555760-motozaschita-alpinestars-cherno.html</url>
+    <price>8999</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>33807</categoryId>
+    <picture>https://images.prom.ua/Wc24qGbXYWZKAbAxF5Dj7TC4EyArqt8t6tFcLEgkKXk=/7896248981_motozaschita-alpinestars-a-4.jpg</picture>
+    <picture>https://images.prom.ua/jDg2LEaDdquwDfdrZ8snMIo8Zc1cYMNu7EWPkZmxsOI=/7896248983_motozaschita-alpinestars-a-4.jpg</picture>
+    <picture>https://images.prom.ua/dx_xGnPpoM1V6mLbm9HRmiObz5s41cyVgMjhv8l6WCw=/7896248984_motozaschita-alpinestars-a-4.jpg</picture>
+    <picture>https://images.prom.ua/ApG7FledvhMT1TIOaUkfbiS7M6HvmKlAALndJXp5S7Q=/7896248982_motozaschita-alpinestars-a-4.jpg</picture>
+    <picture>https://images.prom.ua/lvt_FM3liaA63tGgV7PFjUqGa5uXLG_pu9I6TXzWwwU=/7896248985_motozaschita-alpinestars-a-4.jpg</picture>
+    <vendor>Alpinestars</vendor>
+    <stock_quantity>1</stock_quantity>
+    <name>Мотозахист Alpinestars A-4 Чорно зелений 3277555760</name>
+    <name_ua>Мотозахист Alpinestars A-4 Чорно зелений 3277555760</name_ua>
+    <description>Мотозахист Alpinestars A-4 Чорно зелений 3277555760. Характеристики: Цвет: Черный; Тип товару: Захисний панцир; Зона захисту: Груди та спина.</description>
+    <description_ua>Мотозахист Alpinestars A-4 Чорно зелений 3277555760. Характеристики: Цвет: Черный; Тип товару: Захисний панцир; Зона захисту: Груди та спина.</description_ua>
+    <param name="Состояние">Новое</param>
+    <param name="Цвет">Черный</param>
+  <param name="Тип товару">Захисний панцир</param><param name="Зона захисту">Груди та спина</param></offer>
+  <offer id="3278465752" available="true" group_id="746299966">
+    <url>https://vellum.prom.ua/p3278465752-supreme-maison-margiela.html</url>
+    <price_old>1599</price_old>
+    <price>1279.2</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>30503</categoryId>
+    <picture>https://images.prom.ua/c_CIt1VTTrTHqmA-J6T4UFBefYxOWxfmGMzr5982Z24=/7742062718_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/oWZm0brFmHDYPkfIm8SjIVmWNzW5Db1PQ0CgPhl5ixA=/7742062720_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/WxjUyTf1Xtx8eHZ8wVg3BEsrJ5zcZQIuva3xUxiAs2w=/7742062721_supreme-x-maison.jpg</picture>
+    <vendor>Supreme</vendor>
+    <stock_quantity>1</stock_quantity>
+    <name>Худі Supreme Maison Margiela Чорне S 3278465752</name>
+    <name_ua>Худі Supreme Maison Margiela Чорне S 3278465752</name_ua>
+    <description>Худі Supreme Maison Margiela Чорне S 3278465752. Характеристики: Вид толстовок: Худи; Размер мужской одежды: 52; Цвет: Черный; Тип ткани: Флис; Международный размер: S.</description>
+    <description_ua>Худі Supreme Maison Margiela Чорне S 3278465752. Характеристики: Вид толстовок: Худи; Размер мужской одежды: 52; Цвет: Черный; Тип ткани: Флис; Международный размер: S.</description_ua>
+    <param name="Вид толстовок">Худи</param>
+    <param name="Размер мужской одежды">52</param>
+    <param name="Цвет">Черный</param>
+    <param name="Тип ткани">Флис</param>
+    <param name="Состояние">Новое</param>
+    <param name="Международный размер" unit="">S</param>
+  </offer>
+  <offer id="3280969595" available="true" group_id="746299966">
+    <url>https://vellum.prom.ua/p3280969595-supreme-maison-margiela.html</url>
+    <price_old>1599</price_old>
+    <price>1279.2</price>
+    <currencyId>UAH</currencyId>
+    <categoryId>30503</categoryId>
+    <picture>https://images.prom.ua/UOFRUxWqVfiytNIpCS2-4N1PEp_Lsg4Ea8sl3izyuIU=/6856152278_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/GCBbKYa34f0SZUw85z1yKktekAzRekIwmS4M0kZnw-M=/6856151704_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/gFaoQIwdh-qcuwkYNW5yPNXG2Z4yTQkRGGnFQfyPqAY=/6856151705_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/6lDrfPa9yVHO-00dTBAnAUqBJUI4S5Q7u7fJUkOQFUY=/6856151703_supreme-x-maison.jpg</picture>
+    <picture>https://images.prom.ua/QxCq11IW9xng4XmtA02p2BIFUSO6rkpjyxMmVaEimqA=/6856151702_supreme-x-maison.jpg</picture>
+    <vendor>Supreme</vendor>
+    <stock_quantity>5</stock_quantity>
+    <name>Худі Supreme Maison Margiela Сіре M 3280969595</name>
+    <name_ua>Худі Supreme Maison Margiela Сіре M 3280969595</name_ua>
+    <description>Худі Supreme Maison Margiela Сіре M 3280969595. Характеристики: Вид толстовок: Худи; Размер мужской одежды: 52; Цвет: Серый; Тип ткани: Флис; Международный размер: M.</description>
+    <description_ua>Худі Supreme Maison Margiela Сіре M 3280969595. Характеристики: Вид толстовок: Худи; Размер мужской одежды: 52; Цвет: Серый; Тип ткани: Флис; Международный размер: M.</description_ua>
+    <param name="Вид толстовок">Худи</param>
+    <param name="Размер мужской одежды">52</param>
+    <param name="Цвет">Серый</param>
+    <param name="Тип ткани">Флис</param>
+    <param name="Состояние">Новое</param>
+    <param name="Международный размер">M</param>
+  </offer>
+
+  </offers>
+</shop>
+</yml_catalog>
